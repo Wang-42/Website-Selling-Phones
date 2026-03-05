@@ -20,6 +20,7 @@
             "variantName": "Xanh Navy"
         }
         ],
+        "price": "34,990,000đ",
         "info": "",
         "images": [
             "./san-pham/",
@@ -47,6 +48,7 @@
             "variantName": "Vàng Hồng"
         }
         ],
+        "price": "32,490,000đ",
         "info": "",
         "images": [
             "./san-pham/",
@@ -74,6 +76,7 @@
             "variantName": "Xám"
         }
         ],
+        "price": "27,190,000đ",
         "info": "",
         "images": [
             "./san-pham/",
@@ -101,6 +104,7 @@
             "variantName": "Xanh Icy"
         }
         ],
+        "price": "14,990,000đ",
         "info": "",
         "images": [
             "./san-pham/",
@@ -128,6 +132,7 @@
             "variantName": "Xám"
         }
         ],
+        "price": "11,290,000đ",
         "info": "",
         "images": [
             "./san-pham/",
