@@ -1,5 +1,5 @@
 // import sanpham.json
-const sanpham = fetch('/asset/sanpham.json')
+const sanpham = fetch('./asset/sanpham.json')
     .then(response => {
         if (!response.ok) {
             throw new Error('Network response was not ok');
